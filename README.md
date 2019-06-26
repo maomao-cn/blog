@@ -1,34 +1,44 @@
 #### [About me](me/readme.md) 
   
-### PostgreSQL, Greenplum 学习视频  
+### 一、PostgreSQL, Greenplum 学习视频  
   
-下载链接： http://pan.baidu.com/s/1pKVCgHX   (如果链接失效请通知我, 谢谢)  
+1、下载链接： http://pan.baidu.com/s/1pKVCgHX   (如果链接失效请通知我, 谢谢)  
+1\.1、PostgreSQL 9.3 数据库管理与优化 视频4天  
+1\.2、PostgreSQL 9.3 数据库管理与优化 视频5天  
+1\.3、PostgreSQL 9.1 数据库管理与开发 视频1天  
+1\.4、PostgreSQL 9.3 数据库优化 视频3天  
+1\.5、PostgreSQL 专题讲座 视频  
   
-1、PostgreSQL 9.3 数据库管理与优化 视频4天  
-2、PostgreSQL 9.3 数据库管理与优化 视频5天  
-3、PostgreSQL 9.1 数据库管理与开发 视频1天  
-4、PostgreSQL 9.3 数据库优化 视频3天  
-5、PostgreSQL 专题讲座 视频  
-6、[《PostgreSQL 多应用场景实践 - 含视频讲解》](201805/20180524_02.md)  
-7、[《PostgreSQL 2天体系化培训(包含Oracle迁移到PG的知识点) - 含视频讲解》](201901/20190105_01.md)  
-8、[《PostgreSQL 生态、案例、开发实践、管理实践、原理、日常维护、诊断、排错、优化、资料 - 含视频讲解》](201801/20180121_01.md)  
-9、PG天天象上活动视频:  
+2、[《PostgreSQL 多应用场景实践 - 含视频》](201805/20180524_02.md)  
+3、[《PostgreSQL 11 2天体系化培训(包含Oracle迁移到PG的知识点) - 含视频》](201901/20190105_01.md)  
+4、[《阿里巴巴 PostgreSQL、社区生态；PG开发者指南、原理、案例、管理优化实践《学习资料、视频》；《PG天天象上》沙龙纪录》](201801/20180121_01.md)  
+5、[《《PG干O,仁心所象 - 去O实战培训》 公益活动纪录 - 《PG开发者指南、去O、管理与优化实践》》](201906/20190615_03.md)    
+6、PG天天象上活动视频:  
 https://edu.aliyun.com/course/836/lesson/list  
 https://yq.aliyun.com/live/582  
   
-### PG社区微信、微博、个人微信二维码  
-![pic](./pic/pg_weixin.jpg)  
-![pic](./pic/pg_weibo.jpg)  
-![pic](./pic/digoal_weixin.jpg)  
+### 二、学习资料  
   
-### 钉钉PostgreSQL群(专家坐诊、每周直播教学)  
-![pic](./pic/dingding_pg_chat.png)  
+1、[《Oracle DBA 增值 PostgreSQL 学习路径》](201804/20180425_01.md)   
+2、[《PostgreSQL、Greenplum 《如来神掌》》](201706/20170601_02.md)    
+3、[《快速入门PostgreSQL应用开发与管理 - 1 如何搭建一套学习、开发PostgreSQL的环境》](201704/20170411_01.md)    
+4、[《快速入门PostgreSQL应用开发与管理 - 2 Linux基本操作》](201704/20170411_02.md)    
+5、[《快速入门PostgreSQL应用开发与管理 - 3 访问数据》](201704/20170411_03.md)    
+6、[《快速入门PostgreSQL应用开发与管理 - 4 高级SQL用法》](201704/20170411_04.md)    
+7、[《快速入门PostgreSQL应用开发与管理 - 5 数据定义》](201704/20170411_05.md)    
+8、[《快速入门PostgreSQL应用开发与管理 - 6 事务和锁》](201704/20170412_01.md)    
+9、[《快速入门PostgreSQL应用开发与管理 - 7 函数、存储过程和触发器》](201704/20170412_02.md)    
+10、[《快速入门PostgreSQL应用开发与管理 - 8 PostgreSQL 管理》](201704/20170412_04.md)    
+  
+PG官方微信 | PG官方微博 | PG技术进阶钉钉群 | 个人微信  
+---|---|---|---  
+![pic](./pic/pg_weixin.jpg) | ![pic](./pic/pg_weibo.jpg) | ![pic](./pic/dingding_pg_chat.png) | ![pic](./pic/digoal_weixin.jpg)  
   
 如有错误, 万望指正, 非常感谢.  
   
 欢迎转载(注明出处), 如有问题, 请发issue讨论或微信与我联系, 定抽空尽快回复  
   
-### 已归类文档如下(归档进行中... ...)  
+### 三、已归类文档如下(归档进行中... ...)  
   
 digoal's|PostgreSQL|文章|归类
 ---|---|---|---
@@ -44,6 +54,61 @@ digoal's|PostgreSQL|文章|归类
   
 ### 所有文档如下  
 ----  
+##### 201906/20190626_01.md   [《站在浪潮之巅 - 学生为什么应该学PG, PG与其他数据库有哪些差别》](201906/20190626_01.md)  
+##### 201906/20190624_02.md   [《PostgreSQL 12 feature 解读  汇总》](201906/20190624_02.md)  
+##### 201906/20190624_01.md   [《PostgreSQL 多线程连接池 - Scalable PostgreSQL connection pooler odyssey》](201906/20190624_01.md)  
+##### 201906/20190621_02.md   [《如何修改PostgreSQL分区表分区范围 - detach attach - 拆分、合并、非平衡分区表、深度不一致分区表》](201906/20190621_02.md)  
+##### 201906/20190621_01.md   [《解读用户最常问的PostgreSQL垃圾回收、膨胀、多版本管理、存储引擎等疑惑 - 经典》](201906/20190621_01.md)  
+##### 201906/20190617_01.md   [《PostgreSQL 自动vacuum(垃圾回收)与手动vacuum的参数详解》](201906/20190617_01.md)  
+##### 201906/20190615_03.md   [《《PG干O,仁心所象 - 去O实战培训》 公益活动纪录 - 《PG开发者指南、去O、管理与优化实践》》](201906/20190615_03.md)  
+##### 201906/20190615_02.md   [《PostgreSQL 同集群（实例）的不同数据库之间表级逻辑订阅(逻辑复制)的实现》](201906/20190615_02.md)  
+##### 201906/20190615_01.md   [《PostgreSQL SQL回放,sqlreplay,pgreplay,SQL仿真,负载回放》](201906/20190615_01.md)  
+##### 201906/20190613_01.md   [《PostgreSQL 一条简单、“有人情味”的抽随机奖SQL》](201906/20190613_01.md)  
+##### 201906/20190611_02.md   [《PostgreSQL Oracle 兼容之 pljson》](201906/20190611_02.md)  
+##### 201906/20190611_01.md   [《PostgreSQL 求一个字符串里面某个字符或字符串出现了多少次？》](201906/20190611_01.md)  
+##### 201906/20190610_02.md   [《PostgreSQL 如果最后一个WAL文件中没有事务结束record或target_name point时，可以正常恢复到指定时间点吗》](201906/20190610_02.md)  
+##### 201906/20190610_01.md   [《PostgreSQL 生成对象DDL语句 - ddlx 插件》](201906/20190610_01.md)  
+##### 201906/20190608_04.md   [《[转载] PostgreSQL and patents - PostgreSQL与专利》](201906/20190608_04.md)  
+##### 201906/20190608_03.md   [《[转载] 开源与闭源的斗争，GPLv3协议的发布》](201906/20190608_03.md)  
+##### 201906/20190608_02.md   [《PostgreSQL 社区分析 - 为什么PostgreSQL社区几乎不可能被任何一个商业公司、国家所控制？》](201906/20190608_02.md)  
+##### 201906/20190608_01.md   [《PostgreSQL synchronous_commit|fsync|full_page_write|data_sync_retry|分组提交 的使用与注意 - 写性能、业务RPO指标》](201906/20190608_01.md)  
+##### 201906/20190607_04.md   [《PostgreSQL psql的元素周期表》](201906/20190607_04.md)  
+##### 201906/20190607_03.md   [《PostgreSQL 12 内置 sharding 进展(fdw)》](201906/20190607_03.md)  
+##### 201906/20190607_02.md   [《PostgreSQL weekly 新闻》](201906/20190607_02.md)  
+##### 201906/20190607_01.md   [《PostgreSQL 12 AM 之 - blackhole 黑洞存储引擎》](201906/20190607_01.md)  
+##### 201906/20190605_02.md   [《[未完待续]PostgreSQL 集群HA管理软件 - pg_auto_failover》](201906/20190605_02.md)  
+##### 201906/20190605_01.md   [《PostgreSQL 12 + PostGIS 3 实现FULL PARALLEL - GIS计算智能并行》](201906/20190605_01.md)  
+##### 201906/20190604_03.md   [《PostgreSQL gist, spgist索引的原理、差别、应用场景》](201906/20190604_03.md)  
+##### 201906/20190604_02.md   [《[招聘] [沃趣] 招聘PostgreSQL全栈工程师》](201906/20190604_02.md)  
+##### 201906/20190604_01.md   [《PostgreSQL 11 公益培训 - 杭州阿里巴巴西溪园区(2019.6.15)》](201906/20190604_01.md)  
+----  
+##### 201905/20190531_03.md   [《PostgreSQL 基于access method api的列存zedstore》](201905/20190531_03.md)  
+##### 201905/20190531_02.md   [《balance, iptables 端口代理，访问不可直达的内网服务》](201905/20190531_02.md)  
+##### 201905/20190531_01.md   [《PostgreSQL Oracle 兼容性之 - plpgsql, pl/sql 存储过程、函数内事务处理 , block , exception》](201905/20190531_01.md)  
+##### 201905/20190528_01.md   [《PostgreSQL 字符集,encoding,character sets,collate,ctype,本土化 - libc,icu》](201905/20190528_01.md)  
+##### 201905/20190527_01.md   [《PostgreSQL exclude 约束之 - 绑定一对一的关系》](201905/20190527_01.md)  
+##### 201905/20190523_03.md   [《PostgreSQL 逻辑复制开始时还未结束的事务是否会丢失？》](201905/20190523_03.md)  
+##### 201905/20190523_02.md   [《PostgreSQL 窗口函数 - 帧、窗口的应用例子》](201905/20190523_02.md)  
+##### 201905/20190523_01.md   [《PostgreSQL case when 表达式索引解决连续性数据的阶梯分段搜索性能问题》](201905/20190523_01.md)  
+##### 201905/20190521_01.md   [《PostgreSQL 12 preview - 分区表性能提升百倍》](201905/20190521_01.md)  
+##### 201905/20190520_01.md   [《powa4 PostreSQL Workload Analyzer - PostgreSQL监控工具、带WEB展示》](201905/20190520_01.md)  
+##### 201905/20190517_03.md   [《[招聘] [国家电网旗下 - 许继] 招聘PostgreSQL 数据库DBA》](201905/20190517_03.md)  
+##### 201905/20190517_02.md   [《[招聘] [阿里巴巴] 招聘PostgreSQL 数据库DBA》](201905/20190517_02.md)  
+##### 201905/20190517_01.md   [《[招聘] [上海光源-国家级应用物理研究所] 招聘PostgreSQL 数据库DBA》](201905/20190517_01.md)  
+##### 201905/20190515_01.md   [《PostgreSQL 12 preview - 优化器接口 - 自定义函数成本估算优化接口》](201905/20190515_01.md)  
+##### 201905/20190514_01.md   [《PostgreSQL 用户、会话、业务级 资源隔离(cgroup, 进程组) - resource manage》](201905/20190514_01.md)  
+##### 201905/20190509_01.md   [《pipelinedb 团队加入Confluent，TimescaleDB时序插件支持准实时聚合（类流式计算）》](201905/20190509_01.md)  
+##### 201905/20190508_01.md   [《删除用户风险大，试试锁定用户》](201905/20190508_01.md)  
+##### 201905/20190505_01.md   [《PostgreSQL 权限查询与统计 - has ... privilege (例 用户、数据库维度 OWNER、connect,create,temp权限统计) , 默认权限列表查询，解读ACL》](201905/20190505_01.md)  
+##### 201905/20190503_06.md   [《PostgreSQL 暂时不支持replication slot信息的主从同步》](201905/20190503_06.md)  
+##### 201905/20190503_05.md   [《PostgreSQL 12 preview - recovery.conf 合并入 postgresql.conf后的HOT STANDBY配置(standby.signal , recovery.signal)》](201905/20190503_05.md)  
+##### 201905/20190503_04.md   [《PostgreSQL 三种心跳(keepalive)指标的应用 - 时间戳、redo(wal)位点、事务号》](201905/20190503_04.md)  
+##### 201905/20190503_03.md   [《PostgreSQL index include - 类聚簇表与应用(append only, IoT时空轨迹, 离散多行扫描与返回)》](201905/20190503_03.md)  
+##### 201905/20190503_02.md   [《PostgreSQL 与getrusage - 统计会话、语句资源使用情况, 同时也被用于资源隔离(EPAS,Greenplum) - log_parser_stats log_planner_stats log_executor_stats log_statement_stats》](201905/20190503_02.md)  
+##### 201905/20190503_01.md   [《PostgreSQL 12 preview - vacuum 新增开关: index_cleanup , 是否同时回收索引》](201905/20190503_01.md)  
+----  
+##### 201904/20190430_01.md   [《KPI分解，目标设定之 - 等比数列》](201904/20190430_01.md)  
+##### 201904/20190426_01.md   [《PostgreSQL KPI 预测例子 - 线性回归, 斜率, 截距, 相关性, regr_slope, regr_intercept, regr_r2》](201904/20190426_01.md)  
 ##### 201904/20190422_01.md   [《PostgreSQL 深入浅出 - 十万个为什么 - 1 为什么数据库也有DOS攻击》](201904/20190422_01.md)  
 ##### 201904/20190421_02.md   [《PostgreSQL中的四色猜想(Four color theorem) - 最强大脑题目》](201904/20190421_02.md)  
 ##### 201904/20190421_01.md   [《在PostgreSQL中生成和查看泰森多边形 - Voronoi diagram - 最强大脑题目》](201904/20190421_01.md)  
@@ -184,7 +249,7 @@ digoal's|PostgreSQL|文章|归类
 ##### 201901/20190107_02.md   [《为什么pg_basebackup或pg_start_backup好像hang住确没有开始拷贝文件 - checkpoint 的几种调度(checkpoint_completion_target)》](201901/20190107_02.md)  
 ##### 201901/20190107_01.md   [《为什么高并发小事务, unlogged table不比logged table快多少? - commit wal log》](201901/20190107_01.md)  
 ##### 201901/20190105_02.md   [《[转载] PostgreSQL HA patroni》](201901/20190105_02.md)  
-##### 201901/20190105_01.md   [《PostgreSQL 2天培训大纲(包含Oracle迁移到PG的知识点) - 含视频讲解》](201901/20190105_01.md)  
+##### 201901/20190105_01.md   [《PostgreSQL 11 2天培训(含全面的PG知识图谱、含Oracle迁移到PG知识点) - 含视频讲解》](201901/20190105_01.md)  
 ----  
 ##### 201812/20181230_01.md   [《一些灾难恢复术语 - Disaster recovery》](201812/20181230_01.md)  
 ##### 201812/20181226_01.md   [《MTK使用 - PG,PPAS,oracle,mysql,ms sql,sybase 迁移到 PG, PPAS (支持跨版本升级)》](201812/20181226_01.md)  
@@ -199,7 +264,7 @@ digoal's|PostgreSQL|文章|归类
 ##### 201812/20181204_01.md   [《PostgreSQL DBA 日常管理 SQL》](201812/20181204_01.md)  
 ##### 201812/20181203_01.md   [《PostgreSQL 11 参数模板 - 珍藏级》](201812/20181203_01.md)  
 ##### 201812/20181202_03.md   [《PostgreSQL 拒绝服务DDOS攻击与防范》](201812/20181202_03.md)  
-##### 201812/20181202_02.md   [《PostgreSQL recovery.conf 配置文件整合到 postgresql.conf》](201812/20181202_02.md)  
+##### 201812/20181202_02.md   [《PostgreSQL 12 preview - PostgreSQL recovery.conf 配置文件整合到 postgresql.conf》](201812/20181202_02.md)  
 ##### 201812/20181202_01.md   [《PostgreSQL 优化CASE - 有序UUID插件》](201812/20181202_01.md)  
 ----  
 ##### 201811/20181129_01.md   [《PostgreSQL 多维、图像 欧式距离、向量距离、向量相似 查询优化 - cube,imgsmlr - 压缩、分段、异步并行》](201811/20181129_01.md)  
@@ -388,7 +453,7 @@ digoal's|PostgreSQL|文章|归类
 ##### 201806/20180601_02.md   [《PostgreSQL standby会不会做检查点? 以及做检查点的用处》](201806/20180601_02.md)  
 ##### 201806/20180601_01.md   [《PostgreSQL pg_recvlogical 与 test_decoding 自定义，支持source table filter, 对接kafka,es等 - PostgreSQL CDC - (wal2json + Debezium)》](201806/20180601_01.md)  
 ----  
-##### 201805/20180530_02.md   [《PostgreSQL 如何确定某个opclass支持哪些操作符(支持索引)，JOIN方法，排序》](201805/20180530_02.md)  
+##### 201805/20180530_02.md   [《PostgreSQL 如何确定某个opclass支持哪些操作符(支持索引)，JOIN方法，排序 - 了解opclass,am,opfamily,amop》](201805/20180530_02.md)  
 ##### 201805/20180530_01.md   [《PostgreSQL 推荐 TPC-C 测试工具 sqlbench》](201805/20180530_01.md)  
 ##### 201805/20180529_01.md   [《PostgreSQL wal_buffers 自动计算算法》](201805/20180529_01.md)  
 ##### 201805/20180528_01.md   [《PostgreSQL Oracle checksum 配置与性能》](201805/20180528_01.md)  
@@ -635,7 +700,7 @@ digoal's|PostgreSQL|文章|归类
 ##### 201801/20180122_03.md   [《PostgreSQL 商用版本EPAS(阿里云ppas(Oracle 兼容版)) - 分区表性能优化 (堪比pg_pathman)》](201801/20180122_03.md)  
 ##### 201801/20180122_02.md   [《PostgreSQL 范围过滤 + 其他字段排序OFFSET LIMIT(多字段区间过滤)的优化与加速》](201801/20180122_02.md)  
 ##### 201801/20180122_01.md   [《学习 PostgreSQL Frontend/Backend protocol (通信协议)》](201801/20180122_01.md)  
-##### 201801/20180121_01.md   [《阿里云 PostgreSQL 产品生态；案例、开发管理实践、原理、学习资料、视频；PG天天象上沙龙记录 - 珍藏级》](201801/20180121_01.md)  
+##### 201801/20180121_01.md   [《阿里巴巴 PostgreSQL、社区生态；PG开发者指南、原理、案例、管理优化实践《学习资料、视频》；《PG天天象上》沙龙纪录 - 珍藏级》](201801/20180121_01.md)  
 ##### 201801/20180119_04.md   [《PostgreSQL 10 自定义并行计算聚合函数的原理与实践 - (含array_agg合并多个数组为单个一元数组的例子)》](201801/20180119_04.md)  
 ##### 201801/20180119_03.md   [《PostgreSQL bitmap scan的IO放大的原理解释和优化》](201801/20180119_03.md)  
 ##### 201801/20180119_02.md   [《用PostgreSQL 处理 指纹 数据》](201801/20180119_02.md)  
@@ -2099,7 +2164,7 @@ digoal's|PostgreSQL|文章|归类
 ##### 201208/20120831_01.md   [《表级复制(base on trigger) -- one(rw) to many(ro|rw)》](201208/20120831_01.md)  
 ##### 201208/20120814_01.md   [《variable number of arguments function》](201208/20120814_01.md)  
 ----  
-##### 201206/20120628_01.md   [《PostgreSQL plpgsql_check_function 插件 - plpgsql函数体内容CHECK》](201206/20120628_01.md)  
+##### 201206/20120628_01.md   [《PostgreSQL plpgsql_check_function 插件 - plpgsql函数体内容CHECK, 依赖关系, plpgsql profiler》](201206/20120628_01.md)  
 ##### 201206/20120626_03.md   [《USE GDB debug postgres》](201206/20120626_03.md)  
 ##### 201206/20120626_02.md   [《函数稳定性讲解 - 函数索引思考, pay attention to function index used in PostgreSQL》](201206/20120626_02.md)  
 ##### 201206/20120626_01.md   [《PostgreSQL 跟踪DDL时间 - cann't use pg_class's trigger trace user_table's create,modify,delete Time》](201206/20120626_01.md)  
@@ -2203,6 +2268,8 @@ digoal's|PostgreSQL|文章|归类
 ##### 201005/20100511_02.md   [《PostgreSQL Free Space Map Principle》](201005/20100511_02.md)  
 ##### 201005/20100511_01.md   [《使用Plproxy设计PostgreSQL分布式数据库》](201005/20100511_01.md)  
 ----  
+##### 197001/20190515_02.md   [《向三湾改编学习建设PG社区》](197001/20190515_02.md)  
+##### 197001/20190504_01.md   [《从本田奥德赛混动版发布会学习产品发布要点》](197001/20190504_01.md)  
 ##### 197001/20190409_01.md   [《PostgreSQL 深入浅出 - 十万个为什么》](197001/20190409_01.md)  
 ##### 197001/20190328_01.md   [《EDB EPAS, 社区PG, 某商业PG发行版 Oracle兼容性对比》](197001/20190328_01.md)  
 ##### 197001/20190311_03.md   [《2019，某开发者会议数据库市场调研统计》](197001/20190311_03.md)  
